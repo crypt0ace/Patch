@@ -1,0 +1,8 @@
+C:\Users\crypt0ace\Desktop\VisualStudio\Testing DInvoke\Patch\bin\Release\Patch.pdb
+C:\Users\crypt0ace\Desktop\VisualStudio\Testing DInvoke\Patch\obj\Release\Patch.csproj.AssemblyReference.cache
+C:\Users\crypt0ace\Desktop\VisualStudio\Testing DInvoke\Patch\obj\Release\Patch.csproj.CoreCompileInputs.cache
+C:\Users\crypt0ace\Desktop\VisualStudio\Testing DInvoke\Patch\obj\Release\Patch.pdb
+C:\Users\crypt0ace\Desktop\VisualStudio\Testing DInvoke\Patch\bin\Release\Patch.exe.config
+C:\Users\crypt0ace\Desktop\VisualStudio\Testing DInvoke\Patch\bin\Release\Patch.exe
+C:\Users\crypt0ace\Desktop\VisualStudio\Testing DInvoke\Patch\obj\Release\Patch.csproj.SuggestedBindingRedirects.cache
+C:\Users\crypt0ace\Desktop\VisualStudio\Testing DInvoke\Patch\obj\Release\Patch.exe
